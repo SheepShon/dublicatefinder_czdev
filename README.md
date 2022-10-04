@@ -11,4 +11,4 @@
 1. [XlsxWriter](https://pypi.org/project/XlsxWriter/)
 2. [Colorama](https://pypi.org/project/colorama/)
 
-> Разработано специально для ГК Юг Машинери.
+> Разработано czDevelopment специально для ГК Юг Машинери.
