@@ -10,3 +10,5 @@
 ## Требуемые библиотеки.
 1. [XlsxWriter](https://pypi.org/project/XlsxWriter/)
 2. [Colorama](https://pypi.org/project/colorama/)
+
+Разработано czDevelopment специально для ГК Юг Машинери.
